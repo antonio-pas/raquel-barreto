@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  gap: 1rem;
+  border-bottom: 1px solid hsl(var(--seperator));
+
+  min-height: 40px;
+  width: 100vw;
+}
+
+.underline {
+  text-decoration: underline;
+}
